@@ -5,9 +5,9 @@
 ⚠️ Disclaimer. This is one man project, some its progress won't be the fastest one ⚠️
 
 
-> Last update 04/01/2021
+> Last update 06/01/2021
 > 
-> Document version 0.1
+> Document version 0.1.0.0
 >
 > [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 > ![Appveyor status image](https://ci.appveyor.com/api/projects/status/github/kostasgrevenitis/Codenception.FiwareOrionClient?branch=main&svg=true)
