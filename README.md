@@ -16,7 +16,25 @@
 
 FIWARE is an open source cloud platform with a collaborative and mature ecosystem of developers, innovation Hubs, accelerators, cities and more than 1000 Small and Medium Enterprises and startups. By 2020, businesses leveraging the FIWARE platform are expected to generate revenues of more than EUR 330 million.
 
-## Resources
+# Prerequisites
+
+--TODO--
+
+# Nuget dependencies
+
+--TODO--
+
+# Solution analysis
+
+--TODO--
+
+# DevOps
+
+--TODO--
+
+# Versions
+
+# Resources
 
 [https://ec.europa.eu/digital-single-market/en/future-internet-public-private-partnership](https://ec.europa.eu/digital-single-market/en/future-internet-public-private-partnership)
 
