@@ -34,6 +34,8 @@ FIWARE is an open source cloud platform with a collaborative and mature ecosyste
 
 # Versions
 
+--TODO--
+
 # Resources
 
 [https://ec.europa.eu/digital-single-market/en/future-internet-public-private-partnership](https://ec.europa.eu/digital-single-market/en/future-internet-public-private-partnership)
