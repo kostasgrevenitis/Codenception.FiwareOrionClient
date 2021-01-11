@@ -1,4 +1,4 @@
-# Codenception.FiwareOrionClient
+# Codenception Fiware Orion Client
 
 🚧 Work in progress. It can't be used yet! 🚧
 
