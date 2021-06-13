@@ -2,7 +2,7 @@
 
 🚧 Work in progress. It can't be used yet! 🚧
 
-⚠️ Disclaimer. This is one man project, some its progress won't be the fastest one ⚠️
+⚠️ Disclaimer. This is one man project, so its progress won't be the fastest one ⚠️
 
 
 > Last update 06/01/2021
