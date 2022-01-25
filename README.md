@@ -43,3 +43,5 @@ FIWARE is an open source cloud platform with a collaborative and mature ecosyste
 [https://www.fiware.org](https://www.fiware.org)
 
 [https://github.com/FIWARE/tutorials.Step-by-Step](https://github.com/FIWARE/tutorials.Step-by-Step)
+
+[https://swagger.lab.fiware.org/](https://swagger.lab.fiware.org/)
